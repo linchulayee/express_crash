@@ -1,0 +1,20 @@
+{
+  "name": "express_crash",
+  "version": "1.0.0",
+  "description": "express crash course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linchu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
